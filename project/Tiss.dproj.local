@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/07/07 21:30:42.000.140,C:\Genesis\source_tiss\projeto\Gera_xml.dproj=C:\Genesis\source_tiss\projeto\Tiss.dproj</Transaction>
+    <Transaction>2014/07/07 21:49:18.000.281,=C:\Genesis\source_tiss_bck\lib\uTissV3_01_00.pas</Transaction>
+    <Transaction>2014/07/19 16:03:10.000.906,C:\Genesis\source_tiss_bck\lib\uTissV3_01_00.pas=</Transaction>
+    <Transaction>2015/08/19 21:05:32.000.000,=C:\Genesis\source_tiss2\uDaoExamesAut.pas</Transaction>
+    <Transaction>2015/08/19 21:05:43.000.765,=C:\Genesis\source_tiss2\projeto\Unit1.pas</Transaction>
+    <Transaction>2015/11/24 22:03:30.000.703,C:\Genesis\source_tiss\view\estrutura\uPrincipal.dfm=C:\Genesis\source_tiss\uPrincipal.dfm</Transaction>
+    <Transaction>2015/11/24 22:03:30.000.703,C:\Genesis\source_tiss\view\estrutura\uPrincipal.pas=C:\Genesis\source_tiss\uPrincipal.pas</Transaction>
+    <Transaction>2015/11/24 22:03:52.000.390,C:\Genesis\source_tiss\dados\dataTmpConexao.dfm=C:\Genesis\source_tiss\dataTmpConexao.dfm</Transaction>
+    <Transaction>2015/11/24 22:03:52.000.390,C:\Genesis\source_tiss\dados\dataTmpConexao.pas=C:\Genesis\source_tiss\dataTmpConexao.pas</Transaction>
+    <Transaction>2015/11/24 22:04:02.000.062,C:\Genesis\source_tiss\dados\dataDados.dfm=C:\Genesis\source_tiss\dataDados.dfm</Transaction>
+    <Transaction>2015/11/24 22:04:02.000.062,C:\Genesis\source_tiss\dados\dataDados.pas=C:\Genesis\source_tiss\dataDados.pas</Transaction>
+    <Transaction>2015/11/24 22:04:12.000.125,C:\Genesis\source_tiss\view\estrutura\uEnvioEmail.dfm=C:\Genesis\source_tiss\uEnvioEmail.dfm</Transaction>
+    <Transaction>2015/11/24 22:04:12.000.125,C:\Genesis\source_tiss\view\estrutura\uEnvioEmail.pas=C:\Genesis\source_tiss\uEnvioEmail.pas</Transaction>
+    <Transaction>2015/11/24 22:04:27.000.593,C:\Genesis\source_tiss\view\mensagens\uErConexao.dfm=C:\Genesis\source_tiss\uErConexao.dfm</Transaction>
+    <Transaction>2015/11/24 22:04:27.000.593,C:\Genesis\source_tiss\view\mensagens\uErConexao.pas=C:\Genesis\source_tiss\uErConexao.pas</Transaction>
+    <Transaction>2015/11/24 22:04:35.000.343,C:\Genesis\source_tiss\view\estrutura\uXML.pas=C:\Genesis\source_tiss\uXML.pas</Transaction>
+    <Transaction>2015/11/24 22:04:35.000.343,C:\Genesis\source_tiss\view\estrutura\uXML.dfm=C:\Genesis\source_tiss\uXML.dfm</Transaction>
+    <Transaction>2015/11/24 22:04:55.000.203,C:\Genesis\source_tiss\project\Tiss.dproj=C:\Genesis\source_tiss\projeto\Tiss.dproj</Transaction>
+    <Transaction>2015/11/24 22:12:07.000.640,=C:\Genesis\source_tiss\var\uVarGlobal.pas</Transaction>
+    <Transaction>2015/11/24 22:12:38.000.515,=C:\Genesis\source__genesis\funcoes\uFuncoesSistema.pas</Transaction>
+    <Transaction>2015/11/24 22:15:46.000.984,=C:\Genesis\source__genesis\funcoes\uFuncoesMail.pas</Transaction>
+    <Transaction>2015/11/24 22:15:57.000.953,=C:\Genesis\source__genesis\funcoes\uFuncoesSeguranca.pas</Transaction>
+    <Transaction>2015/11/24 22:19:10.000.031,=C:\Genesis\source__genesis\funcoes\uFuncoesDB.pas</Transaction>
+    <Transaction>2015/11/24 22:33:50.000.859,=C:\Genesis\source__genesis\dados\dataConsultas.pas</Transaction>
+    <Transaction>2015/11/24 22:34:20.000.671,=C:\Genesis\source__genesis\dados\dataLookups.pas</Transaction>
+    <Transaction>2015/11/24 22:34:32.000.265,=C:\Genesis\source__genesis\funcoes\uFuncoesFormatacao.pas</Transaction>
+    <Transaction>2015/11/24 22:36:06.000.781,=C:\Genesis\source_tiss\dao\uDaoExamesAut.pas</Transaction>
+    <Transaction>2015/11/24 22:40:51.000.890,=C:\Genesis\source__genesis\funcoes\uFuncoesValidacao.pas</Transaction>
+    <Transaction>2015/12/02 21:27:54.000.234,=C:\Genesis\source__genesis\funcoes\uFuncoesVersao.pas</Transaction>
+    <Transaction>2015/12/02 21:28:27.000.140,=C:\Genesis\source__genesis\dados\dataConfig.pas</Transaction>
+    <Transaction>2015/12/02 21:28:41.000.203,=C:\Genesis\source__genesis\dao\uDaoEmpresa.pas</Transaction>
+    <Transaction>2015/12/02 21:28:53.000.546,=C:\Genesis\source__genesis\dao\uDaoConfig.pas</Transaction>
+    <Transaction>2015/12/02 21:29:03.000.328,=C:\Genesis\source__genesis\funcoes\uFuncoesWeb.pas</Transaction>
+    <Transaction>2015/12/02 21:29:18.000.390,=C:\Genesis\source__genesis\dao\uDaoModulos.pas</Transaction>
+    <Transaction>2015/12/07 21:41:02.000.406,=C:\Genesis\source__genesis\dados\dataExames.pas</Transaction>
+    <Transaction>2015/12/07 21:41:13.000.046,C:\Genesis\source__genesis\dados\dataExames.pas=</Transaction>
+    <Transaction>2015/12/07 21:42:00.000.421,=C:\Genesis\source_tiss\dao\uDaoExamesTISS.pas</Transaction>
+    <Transaction>2016/08/19 19:38:04.000.984,=C:\Genesis\source_tiss\project\Unit1.pas</Transaction>
+    <Transaction>2016/08/19 19:38:17.000.781,=C:\Genesis\source_tiss\project\Unit1.pas</Transaction>
+    <Transaction>2016/08/19 19:39:01.000.781,C:\Genesis\source_tiss\project\Unit1.pas=C:\Genesis\source_tiss\dao\uDaoExamesCob.pas</Transaction>
+  </Transactions>
+</BorlandProject>
